@@ -17,7 +17,7 @@ I aim to combine data science with public policy to shape the future of smart ci
 - **Climate change and alpine ecosystems**: population dynamics with PDEs ([report](https://inesbafaluy.github.io/reports/population-dynamics-climate-change.pdf), in French)
 - **[Cholesterol and heart-risk prediction](https://github.com/InesBafaluy/ML-heart-cholesterol-prediction)**: statistical learning in Python and R
 - **[What makes a Spotify hit?](https://github.com/InesBafaluy/musique)**: exploratory analysis and visualization
-- **Do looks win votes?**: facial features and U.S. elections with machine learning ([report](https://inesbafaluy.github.io/reports/faces-and-elections.pdf))
+- **[Do looks win votes?](https://github.com/InesBafaluy/do-looks-win-votes)**: facial features and U.S. elections with machine learning, team project at UT Austin ([report](https://github.com/InesBafaluy/do-looks-win-votes/blob/main/report.pdf))
 
 #### Tools
 Python · R · Ada · pandas · scikit-learn · NLP · Econometrics · Git
